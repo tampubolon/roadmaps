@@ -597,3 +597,71 @@ career-changer. It should be foregrounded on the CV, not buried — paired with 
 **And the thing to protect:** if the 18 hours a week proves impossible, cut technical breadth,
 never English. An SE with deep Azure and no English is unemployable in this role. An SE with good
 English and moderate Azure gets hired and learns the rest on the job.
+
+---
+
+# Compensation — Jakarta Market
+
+**Confidence warning:** these are estimates from general market knowledge, not a dataset.
+Indonesian salary data is far less transparent than US/EU. Use them to calibrate expectations,
+then verify against the sources at the end of this section.
+
+All figures are **gross monthly base salary**, the way Indonesian offers are actually quoted.
+Variable/bonus is excluded. Conversions at roughly IDR 16,000/USD.
+
+## Tier 1 — Local partners, CSPs, system integrators
+
+Metrodata (MII), CTI Group / Central Data Technology, Multipolar Technology, TelkomSigma,
+Elitery, Zettagrid, Lintasarta, Berca Hardayaperkasa.
+
+| Level | Monthly base (IDR) | ≈ Annual, 13 mo (IDR) | ≈ USD/yr |
+|---|---|---|---|
+| Entry presales (0–2 yrs) | 8–15 juta | 104–195 juta | $6.5k–12k |
+| Mid (3–5 yrs) | 18–30 juta | 234–390 juta | $15k–24k |
+| Senior / lead (6+ yrs) | 30–50 juta | 390–650 juta | $24k–40k |
+
+## Tier 2 — Vendors and global SaaS with a Jakarta presence
+
+Microsoft Indonesia (Technical Specialist / Cloud Solution Architect), AWS Indonesia (Solutions
+Architect), Google Cloud Indonesia (Customer Engineer), plus ISVs such as Datadog, Snowflake,
+Salesforce.
+
+| Level | Monthly base (IDR) | ≈ Annual, 13 mo (IDR) | ≈ USD/yr |
+|---|---|---|---|
+| Mid SA / CSA / CE | 45–75 juta | 585–975 juta | $36k–60k |
+| Senior / principal | 75–120 juta | 975 juta – 1.56 M | $60k–95k |
+
+The gap between the two tiers is commonly **2–3×**. This is why the Tier 1 → Tier 2 move in years
+2–3 matters more financially than any decision made during year one.
+
+## Factors that distort these numbers
+
+- **THR is mandatory** — at least one month's salary before the religious holiday, so annual is a
+  minimum of 13×. Some firms pay 14–16 months.
+- **Presales is base-heavy** — typically a 70/30 or 80/20 base/variable split, unlike an Account
+  Executive's 50/50. The base figures above are therefore most of the package.
+- **Vendor roles add equity.** Microsoft, AWS and Google all grant RSUs to Indonesian staff,
+  potentially adding 20–40% on top. This never appears in base-salary surveys.
+- **Regional roles are a separate market.** Some Indonesia-covering positions are hired out of
+  Singapore at Singapore rates — worth targeting explicitly once English reaches C1.
+
+## The year-one reality
+
+For someone currently managing a sales team, **moving into presales at month 12 is most likely a
+pay cut, not a raise.** A career-changer holding AZ-305 but with no presales track record lands at
+the entry-to-low-mid band of Tier 1 — realistically **IDR 12–20 juta/month**, with a selling
+background and an engineering degree pushing toward the upper half of that rather than the floor.
+
+The recovery is quick: mid band by year 2–3, Tier 2 by year 3–5, ending materially ahead of where
+staying put would have led. But this needs to be understood **before** starting, not discovered at
+the offer stage. Year one is an investment year, and that is the point at which most people
+abandon a career change.
+
+## Where to verify
+
+1. **Robert Walters Indonesia Salary Survey** and **Michael Page Indonesia Salary Guide** — free
+   annual PDFs, both break out "Pre-Sales / Solution Engineer" as a line item. Best available
+   sources.
+2. **Glassdoor Indonesia, JobStreet, Kalibrr** — actual posted ranges, though often understated.
+3. **LinkedIn, directly.** Message two or three presales engineers at Indonesian partners and ask.
+   Indonesian tech people are generally open about ranges in DMs, and this beats every survey.
